@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.708" tests="4" skipped="0" failures="0" errors="0">
+<testcase classname="Tag Examples" name="MySample1" time="0.064">
+</testcase>
+<testcase classname="Tag Examples" name="MySample3" time="0.002">
+</testcase>
+<testcase classname="Tag Examples" name="MySample4" time="0.004">
+</testcase>
+<testcase classname="Tag Examples" name="MySample5" time="0.004">
+</testcase>
+</testsuite>
